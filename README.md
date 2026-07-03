@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Palash Goyal</h1>
 
-<!--
-**palashgoyalatwork/palashgoyalatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring AI Engineer | JEE Aspirant | Python & Computer Vision Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Preparing for **JEE**
+- 🤖 Interested in **Artificial Intelligence & Computer Vision**
+- 💻 Building projects using **Python, Streamlit & OpenCV**
+- 🌱 Currently learning **AI, Machine Learning and Full Stack Development**
+- 🎯 Goal: Pursue Computer Science and build impactful AI products
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- OpenCV
+- NumPy
+- Pillow
+- Git & GitHub
+
+---
+
+## 🌟 Featured Projects
+
+### 🎨 Image to Sketch
+Convert any image into a realistic pencil sketch using OpenCV.
+
+🔗 https://github.com/palashgoyalatwork/Image-to-Sketch
+
+🌐 *(Add your Streamlit app link here)*
+
+---
+
+### 🍱 FoodLink
+An AI-powered food waste reduction platform connecting restaurants with NGOs.
+
+*(We'll add the repository link after uploading it.)*
+
+---
+
+## 📫 Contact
+
+📧 **palashgoyalatwork@gmail.com**
+
+GitHub:
+https://github.com/palashgoyalatwork
+
+---
+
+⭐ Thanks for visiting my profile!
