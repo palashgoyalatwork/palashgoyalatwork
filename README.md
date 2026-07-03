@@ -34,7 +34,7 @@ Convert any image into a realistic pencil sketch using OpenCV.
 
 🔗 https://github.com/palashgoyalatwork/Image-to-Sketch
 
-🌐 *(Add your Streamlit app link here)*
+🌐 Live Demo: https://palash-image-to-sketch.streamlit.app
 
 ---
 
