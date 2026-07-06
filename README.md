@@ -34,11 +34,10 @@ Aspiring AI Engineer • Python Developer • Computer Vision Enthusiast
 </p>
 
 ---
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palashgoyalatwork&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashgoyalatwork&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+<img src="https://github-profile-trophy.vercel.app/?username=palashgoyalatwork&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 ## 🔥 GitHub Streak
 
