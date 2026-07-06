@@ -37,13 +37,13 @@ Aspiring AI Engineer • Python Developer • Computer Vision Enthusiast
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=palashgoyalatwork&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashgoyalatwork&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=palashgoyalatwork&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashgoyalatwork&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
 </p>
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=palashgoyalatwork&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=palashgoyalatwork&theme=tokyonight" />
 </p>
 ## 🌟 Featured Projects
 
