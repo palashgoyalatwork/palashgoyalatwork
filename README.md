@@ -1,14 +1,27 @@
-<h1 align="center">Hi 👋, I'm Palash Goyal</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Palash+Goyal;Aspiring+AI+Engineer;Computer+Vision+Developer;Python+%7C+AI+%7C+Machine+Learning;Building+Projects+That+Create+Impact" />
+</p>
 
 <h3 align="center">
-Aspiring AI Engineer | JEE Aspirant | Python & Computer Vision Enthusiast
+Aspiring AI Engineer • Python Developer • Computer Vision Enthusiast
 </h3>
+<p align="center">
 
+<a href="https://github.com/palashgoyalatwork">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:palashgoyalatwork@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 ## 🚀 About Me
 
-- 🎓 Preparing for **JEE**
+- 🤖 Passionate about Artificial Intelligence & Computer Vision
+- 💡 Building real-world AI applications using Python
 - 🤖 Interested in **Artificial Intelligence & Computer Vision**
 - 💻 Building projects using **Python, Streamlit & OpenCV**
 - 🌱 Currently learning **AI, Machine Learning and Full Stack Development**
@@ -18,12 +31,9 @@ Aspiring AI Engineer | JEE Aspirant | Python & Computer Vision Enthusiast
 
 ## 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- OpenCV
-- NumPy
-- Pillow
-- Git & GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,opencv,sqlite,git,github,vscode" />
+</p>
 
 ---
 
@@ -41,17 +51,17 @@ Convert any image into a realistic pencil sketch using OpenCV.
 ### 🍱 FoodLink
 An AI-powered food waste reduction platform connecting restaurants with NGOs.
 
-*(We'll add the repository link after uploading it.)*
+🔗 https://github.com/palashgoyalatwork/FoodLink
 
+🌐 Live Demo: YOUR_STREAMLIT_LINK
 ---
 
 ## 📫 Contact
 
 📧 **palashgoyalatwork@gmail.com**
 
-GitHub:
-https://github.com/palashgoyalatwork
+🌐 GitHub: https://github.com/palashgoyalatwork
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting! Feel free to explore my projects and connect with me.
