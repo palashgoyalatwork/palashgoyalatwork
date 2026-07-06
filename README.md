@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Palash+Goyal;Aspiring+AI+Engineer;Computer+Vision+Developer;Python+%7C+AI+%7C+Machine+Learning;Building+Projects+That+Create+Impact" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=4DA6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Palash+Goyal;Aspiring+AI+Engineer;Computer+Vision+Developer;Python+%7C+AI+%7C+Machine+Learning;Building+Projects+That+Create+Impact">
 </p>
-
 <h3 align="center">
 Aspiring AI Engineer • Python Developer • Computer Vision Enthusiast
 </h3>
@@ -21,11 +20,10 @@ Aspiring AI Engineer • Python Developer • Computer Vision Enthusiast
 ## 🚀 About Me
 
 - 🤖 Passionate about Artificial Intelligence & Computer Vision
-- 💡 Building real-world AI applications using Python
-- 🤖 Interested in **Artificial Intelligence & Computer Vision**
-- 💻 Building projects using **Python, Streamlit & OpenCV**
-- 🌱 Currently learning **AI, Machine Learning and Full Stack Development**
-- 🎯 Goal: Pursue Computer Science and build impactful AI products
+- 💻 Building real-world AI applications using Python
+- 🚀 Developing projects with Streamlit, OpenCV and SQLite
+- 📚 Currently learning Machine Learning & Full Stack Development
+- 🎯 Goal: Build impactful AI products and pursue Computer Science
 
 ---
 
@@ -36,7 +34,17 @@ Aspiring AI Engineer • Python Developer • Computer Vision Enthusiast
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=palashgoyalatwork&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palashgoyalatwork&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=palashgoyalatwork&theme=tokyonight&hide_border=true"/>
+</p>
 ## 🌟 Featured Projects
 
 ### 🎨 Image to Sketch
