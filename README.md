@@ -60,7 +60,6 @@ An AI-powered food waste reduction platform connecting restaurants with NGOs.
 
 🔗 https://github.com/palashgoyalatwork/FoodLink
 
-🌐 Live Demo: YOUR_STREAMLIT_LINK
 ---
 
 ## 📫 Contact
